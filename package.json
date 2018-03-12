@@ -1,0 +1,29 @@
+{
+  "name": "version",
+  "version": "0.1.0",
+  "description": "A web practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fuliheng@github.com/fuliheng/TTlog.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "fuliheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuliheng/TTlog/issues"
+  },
+  "homepage": "https://github.com/fuliheng/TTlog#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-env": "^1.6.1",
+    "rollup": "^0.56.5",
+    "rollup-plugin-babel": "^3.0.3"
+  }
+}
