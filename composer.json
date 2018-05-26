@@ -1,0 +1,21 @@
+{
+    "name": "ywchiao/ulog",
+    "description": "The backend of the ULog.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yiwei Chiao",
+            "email": "ywchiao@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "ULog\\": "src",
+        "ULog\\Controller\\": "src/controller",
+        "ULog\\Router\\": "src/router",
+        "ULog\\View\\": "src/view"
+      }
+    },
+    "require": {}
+}
