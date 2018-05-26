@@ -413,7 +413,7 @@
    *  @version    0.1.0
    *  @since      0.1.0
    *  @copyright  MIT, © 2018 Yiwei Chiao
-   *  @details 
+   *  @details
    *
    *  The http module.
    */
@@ -671,7 +671,7 @@
    *  @version    0.1.0
    *  @since      0.1.0
    *  @copyright  MIT, © 2018 Yiwei Chiao
-   *  @details 
+   *  @details
    *
    *  The NavBar component of the Widget system.
    */
@@ -700,7 +700,7 @@
    *  @version    0.1.0
    *  @since      0.1.0
    *  @copyright  MIT, © 2018 Yiwei Chiao
-   *  @details 
+   *  @details
    *
    *  The NavItem component of the Widget system.
    */

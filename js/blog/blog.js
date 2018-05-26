@@ -39,7 +39,7 @@ const banner = () => {
   let el = document.createElement('header');
 
   let title = document.createElement('h1');
-  title.textContent = 'U Log';
+  title.textContent = 'TTLog';
 
   el.appendChild(title);
   el.style.background = '#00a0ffff';
@@ -66,7 +66,7 @@ const footer = () => {
   let el = document.createElement('footer');
 
   let copyright = document.createElement('p');
-  copyright.textContent = '© 2018, Yiwei Chiao';
+  copyright.textContent = '© 2018, fuliheng';
   copyright.style.margin = '0';
 
   el.appendChild(copyright);

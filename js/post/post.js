@@ -59,43 +59,43 @@ const TOOLBAR = (() => {
       tag: 'bold',
       cmd: 'bold',
     },
-    { 
-      tag: 'italic', 
+    {
+      tag: 'italic',
       cmd: 'italic',
     },
-    { 
-      tag:'underline', 
+    {
+      tag:'underline',
       cmd: 'underline',
     },
     {
       tag: 'align-left',
       cmd: 'justifyLeft',
     },
-    { 
+    {
       tag: 'align-center',
       cmd: 'justifyCenter',
     },
-    { 
+    {
       tag: 'align-right',
       cmd: 'justifyRight',
     },
-    { 
+    {
       tag: 'list-ol',
       cmd: 'insertOrderedList',
     },
-    { 
+    {
       tag: 'list-ul',
       cmd: 'insertUnorderedList',
     },
-    { 
+    {
       tag: 'indent',
       cmd: 'indent',
     },
-    { 
+    {
       tag: 'outdent',
       cmd: 'outdent',
     },
-    { 
+    {
       tag: 'link',
       cmd: '',
       value: ''
@@ -135,7 +135,7 @@ const titleBar = () => {
     tag: HTML.H3
   });
 
-  t.textContent = '標題：未定';
+  t.textContent = '請自行輸入標題';
   title.appendChild(t);
 
   el.appendChild(title);
